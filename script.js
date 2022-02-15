@@ -4,3 +4,5 @@ button.addEventListener('click', () => {
     document.body.style.backgroundColor = '#34eb58'
   }, 3000)
 })
+
+console.log('This is just a test')
